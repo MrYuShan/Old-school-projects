@@ -1,5 +1,5 @@
 # Old-school-projects
-My old secondary projects, C#
+My old secondary school projects (2017-2018), mainly C#
 
 Sadly I only found one
 
