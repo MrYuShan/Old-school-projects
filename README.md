@@ -6,6 +6,8 @@ Sadly I only found one
 Projects I can think of: 
 
 - Mouse Clicking Create Triangle
+![image](https://github.com/MrYuShan/Old-school-projects/assets/68727045/0f6d03a4-9578-40c6-b0d6-d67bf47e1dde)
+
 - Text Editor
 - Picture Drawing
 - Class Seat Randomizer
